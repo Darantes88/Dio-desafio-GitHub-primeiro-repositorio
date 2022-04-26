@@ -1,5 +1,4 @@
-# repositorio do desafio de projeto sobre Git/hub da dio
-Desafio de  projeto/GitHub
-
+#  desafio de projeto sobre Git/hub da dio
+Repositorio  criado para o Desafio do Projeto
 ## link uteis
-[sintaxe baica Markdown](sintaxe baica Markdown)
+[sintaxe basica Markdown](https://www.bet365.com/#/HO/)
